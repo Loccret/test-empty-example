@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://Loccret.github.io',
                 'git_url': 'https://github.com/Loccret/test-empty-example',
                 'lib_path': 'test_empty_example'},
-  'syms': {'test_empty_example.core': {'test_empty_example.core.foo': ('core.html#foo', 'test_empty_example/core.py')}}}
+  'syms': { 'test_empty_example.core': { 'test_empty_example.core.foo': ('core.html#foo', 'test_empty_example/core.py'),
+                                         'test_empty_example.core.say_hello': ('core.html#say_hello', 'test_empty_example/core.py')}}}
