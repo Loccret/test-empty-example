@@ -1,0 +1,1 @@
+Sitemap: https://Loccret.github.io/test-empty-example/sitemap.xml
