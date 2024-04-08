@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-empty-example"
+  site-url: "https://Loccret.github.io/test-empty-example"
+  description: "linda"
+  repo-branch: main
+  repo-url: "https://github.com/Loccret/test-empty-example"
